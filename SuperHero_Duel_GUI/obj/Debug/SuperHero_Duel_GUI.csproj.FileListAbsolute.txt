@@ -1,0 +1,10 @@
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\bin\Debug\SuperHero_Duel_GUI.exe.config
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\bin\Debug\SuperHero_Duel_GUI.exe
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\bin\Debug\SuperHero_Duel_GUI.pdb
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\obj\Debug\SuperHero_Duel_GUI.Form1.resources
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\obj\Debug\SuperHero_Duel_GUI.Properties.Resources.resources
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\obj\Debug\SuperHero_Duel_GUI.csproj.GenerateResource.cache
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\obj\Debug\SuperHero_Duel_GUI.csproj.CoreCompileInputs.cache
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\obj\Debug\SuperHero_Duel_GUI.exe
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\obj\Debug\SuperHero_Duel_GUI.pdb
+C:\Users\kmurr\Desktop\Programs\C#_SuperHero_Duel_GUI\SuperHero_Duel_GUI\SuperHero_Duel_GUI\obj\Debug\SuperHero_Duel_GUI.csprojAssemblyReference.cache
